@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.81.237:8888/ipa/sq_Debug_1.0.8_1508397480.ipa</string>
+					<string>http://192.168.81.237:8888/ipa/Antme_Debug_1.0_1521422856.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.xxxxxxxxxx.identifier</string>
 				<key>bundle-version</key>
-				<string>1.0.8</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>releaseNotes</key>
 				<string>测试OTA</string>
 				<key>title</key>
-				<string>sq</string>
+				<string>Antme</string>
 			</dict>
 		</dict>
 	</array>
